@@ -3,7 +3,7 @@ import Sidebar from "../components/sidebar/sidebar";
 import Center from "../components/center/center";
 import Player from "../components/player/player"
 
-const Home: NextPage = () => {
+const Home = () => {
   return (
     <div className="bg-black h-screen overflow-hidden">
       <main className="flex">
